@@ -1,0 +1,62 @@
+[
+  {
+    "label": "GOOD",
+    "reason": "Distinct leaves and stem visible, no algae, reflection or only soil",
+    "filename": "07044ba1-5b02-4410-b15d-dc6b15f7052c.jpeg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Distinct leaves on stem with organic texture",
+    "filename": "0cd879c2-0b62-4114-8286-f861997d5de8.jpeg"
+  },
+  {
+    "label": "BAD",
+    "reason": "Reflection in soil",
+    "filename": "2690acf3-77b2-43ca-911f-a710dfa80f08.jpeg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Leaves radiating from center, stem visible, organic texture",
+    "filename": "6694b8ec-4e65-48b5-b188-6aaf5e5b3b8e.jpeg"
+  },
+  {
+    "label": "BAD",
+    "reason": "Reflection in soil; no distinct leaves",
+    "filename": "7e08528d-2030-4c33-b21b-6b8a2f76a964.jpeg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Distinct green leaves with organic texture; no fake indicators like reflections or algae.",
+    "filename": "8df258f3-d444-4bbd-ab29-03c5aaf17a88.jpeg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Distinct green leaves radiating from center",
+    "filename": "99549a07-ff1b-47a4-8c2d-0c55dffffd7a.jpeg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Rosette with cotyledons and organic texture",
+    "filename": "a7143d0b-eca3-49ed-8963-4535a9a75c06.jpeg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Distinct leaves and stem on a pot of soil",
+    "filename": "dbc0fdb7-dc37-4502-b551-ac4546bf4770.jpeg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Distinct stem and green leaves visible.",
+    "filename": "e3a0e871-8e48-4249-a000-03d145378dc7.jpeg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No leaves in pot; just soil/plastic/gravel",
+    "filename": "f1db6c02-8975-4003-80c2-0d4128209d0c.jpeg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No distinct leaves or organic texture; just soil and gravel in a pot",
+    "filename": "f66088f0-c77f-41b0-9db8-ed1d84016427.jpeg"
+  }
+]
