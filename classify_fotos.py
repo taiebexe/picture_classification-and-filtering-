@@ -234,7 +234,7 @@ def main():
         json.dump(results, f, indent=2)
     print(f"\nSaved results to {out_path}")
 
-    # Generate PDF report
+    # Generate PDF report--
     pdf_path = Path("report.pdf")
     generate_pdf_report(results, images_dir, pdf_path)
 
