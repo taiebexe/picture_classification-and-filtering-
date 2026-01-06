@@ -7,6 +7,7 @@ from PIL import Image
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_pdf import PdfPages
 import time
+import matplotlib.image as mpimg
 MAX_IMAGE_SIZE = 1000
 
 # Ollama server (remote RTX 5090)
@@ -15,16 +16,23 @@ MODEL_NAME = "llava:34b"
 
 PROMPT = """
 Analyze the image.
+
+Decision rules:
+- If ANY real green plant leaves are visible, prefer GOOD.
+- Be slightly optimistic: small or young plants still count as GOOD.
+
 1. IS IT AN EMPTY POT?
-   - Look for: Soil, perlite (white dots), gravel, plastic cover, condensation.
-   - If NO green leaves are visible -> Classify as "BAD" (Reason: "Empty pot/soil only").
+   - Look for: soil, perlite (white dots), gravel, plastic cover, condensation.
+   - If NO green leaves are visible at all -> BAD (Empty pot / soil only).
 
 2. IS IT A REAL PLANT?
-   - Look for: Defined GREEN LEAVES, ROSETTE shape, or central STEM.
-   - IGNORE: Circular reflections, algae, blurry green blobs.
-   - If distinct leaves are visible -> Classify as "GOOD".
+   - Look for: real GREEN LEAVES, rosette shape, or a central stem.
+   - Very small seedlings still count as a real plant.
+   - IGNORE: reflections, algae, blurry green spots, noise.
 
-Output valid JSON only: { "label": "GOOD" or "BAD", "reason": "concise explanation (max 10 words)" }
+Output valid JSON only:
+{ "label": "GOOD" or "BAD", "reason": "concise explanation (max 10 words)" }
+
 NO markdown.
 """.strip()
 
