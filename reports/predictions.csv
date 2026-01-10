@@ -1,0 +1,25 @@
+filename,y_true,y_pred,reason
+07044ba1-5b02-4410-b15d-dc6b15f7052c.jpeg,GOOD,BAD,No green leaves visible
+0cd879c2-0b62-4114-8286-f861997d5de8.jpeg,GOOD,GOOD,Green leaves visible in soil
+15e7460d-abfd-496a-9cca-612b4ca8db4a.jpeg,GOOD,GOOD,Green leaves visible in pot
+22698671-2c45-4366-9cb9-d60143411e89.jpeg,GOOD,GOOD,Green leaves visible in pot
+2690acf3-77b2-43ca-911f-a710dfa80f08.jpeg,GOOD,GOOD,Green leaves visible in pot
+36636333-f9d1-4f5d-880b-d28849cf63a2.jpeg,GOOD,BAD,No green leaves visible
+378358ed-eb98-4425-abc4-8b1f284a6d70.jpeg,GOOD,GOOD,Green leaves visible in pot
+6694b8ec-4e65-48b5-b188-6aaf5e5b3b8e.jpeg,GOOD,GOOD,Real green plant leaves visible
+6ef8135e-66ec-435c-afdd-3d534543694b.jpeg,GOOD,BAD,No green leaves visible
+7e08528d-2030-4c33-b21b-6b8a2f76a964.jpeg,GOOD,GOOD,Real green plant leaves visible in pot
+86753196-6a97-45cc-bebb-a579fd3b0eb6.jpeg,GOOD,GOOD,Green leaves visible in pot
+8df258f3-d444-4bbd-ab29-03c5aaf17a88.jpeg,GOOD,GOOD,Green leaves visible in pot
+99549a07-ff1b-47a4-8c2d-0c55dffffd7a.jpeg,GOOD,GOOD,Green leaves visible in soil
+a6324b19-ef71-4fd9-b8d0-542756757287.jpeg,GOOD,GOOD,Green leaves visible in pot
+a7143d0b-eca3-49ed-8963-4535a9a75c06.jpeg,GOOD,GOOD,Green leaves visible in pot
+ac3c66d7-43cd-4ec7-b3a9-b1af28142f33.jpeg,GOOD,GOOD,Green leaves visible in pot
+dbc0fdb7-dc37-4502-b551-ac4546bf4770.jpeg,GOOD,GOOD,Green leaves visible in soil
+e3a0e871-8e48-4249-a000-03d145378dc7.jpeg,GOOD,GOOD,Green leaves visible in pot
+e82152d0-92c8-4af1-9634-78fa21252d25.jpeg,GOOD,GOOD,Green leaves visible in soil
+f1db6c02-8975-4003-80c2-0d4128209d0c.jpeg,GOOD,BAD,Empty pot with soil only
+f2600b44-22c6-4fbc-9fda-05cf916d6f52.jpeg,GOOD,BAD,Empty pot with no visible green leaves or plant material
+f5d317c7-f181-4add-81ee-ae19b122dc94.jpeg,GOOD,GOOD,Green leaves visible in pot
+f66088f0-c77f-41b0-9db8-ed1d84016427.jpeg,GOOD,BAD,No green leaves visible
+fc2688c3-52aa-49c2-a921-d29f9596b0a3.jpeg,GOOD,GOOD,Green leaves visible in pot

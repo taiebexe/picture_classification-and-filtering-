@@ -8,6 +8,14 @@ import matplotlib.pyplot as plt
 from matplotlib.backends.backend_pdf import PdfPages
 import time
 import matplotlib.image as mpimg
+# Import evaluation logic
+try:
+    from evaluate import produce_full_report, get_labels_dict
+except ImportError:
+    # If evaluate.py is missing or fails, we will skip eval logic
+    produce_full_report = None
+    get_labels_dict = None
+
 MAX_IMAGE_SIZE = 1000
 
 # Ollama server (remote RTX 5090)
@@ -217,35 +225,74 @@ def generate_pdf_report(results: list, images_dir: Path, output_path: Path):
 
 def main():
     images_dir = Path("images")
+    
+    # --- Load Labels if available ---
+    label_map = {}
+    if get_labels_dict:
+        # Check for labels.csv in current dir
+        csv_path = Path("labels.csv") if Path("labels.csv").exists() else None
+        label_map = get_labels_dict(images_dir, csv_path)
+    
+    # --- Collect Images ---
+    # Enhanced discovery: include subfolders to support GOOD/BAD structure if present
+    # But preserve sorted order
     image_files = sorted(
-        [p for p in images_dir.iterdir() if p.suffix.lower() in {".png", ".jpg", ".jpeg"}]
+        [p for p in images_dir.rglob("*") if p.is_file() and p.suffix.lower() in {".png", ".jpg", ".jpeg"}]
     )
 
     if not image_files:
-        print("No images found in ./images")
+        print("No images found in ./images (checked recursively)")
         return
 
     results = []
     
-    results = []
+    # We prepare a list for evaluation concurrently
+    eval_results = []
+
     for img in image_files:
         print(f"Classifying {img.name} ...")
         res = classify_image(img)
+        
+        # Add relative path info logic if needed, or just use filename/parent logic
+        # For label_map, keys are likely relative paths if loaded via get_labels_dict logic
+        rel_path = str(img.relative_to(images_dir))
+        
+        # Try to find ground truth
+        # label_map keys from evaluate.py are relative paths (str)
+        y_true = label_map.get(rel_path)
+        if not y_true:
+            # Fallback check: maybe filename only?
+            y_true = label_map.get(img.name)
+            
+        # Add to res for JSON? The user didn't ask to modify results.json schema, but it's helpful.
+        # But for eval_results list used by produce_full_report, we need specific structure.
+        
+        eval_item = {
+            'filename': rel_path,
+            'y_true': y_true, # Might be None
+            'y_pred': res['label'],
+            'reason': res['reason'],
+            'abs_path': img
+        }
+        eval_results.append(eval_item)
+        
         print(json.dumps(res, indent=2))
         results.append(res)
     
-    # Save all results to a JSON file
+    # Save all results to a JSON file (standard log)
     out_path = Path("results.json")
-    with out_path.open("w") as f:
-        json.dump(results, f, indent=2)
     with out_path.open("w") as f:
         json.dump(results, f, indent=2)
     print(f"\nSaved results to {out_path}")
 
-    # Generate PDF report--
+    # Generate Existing Qualitative PDF report
     pdf_path = Path("report.pdf")
     generate_pdf_report(results, images_dir, pdf_path)
-
+    
+    # Generate Evaluation Reports
+    if produce_full_report:
+        print("\n--- Generating Evaluation Reports ---")
+        produce_full_report(eval_results, Path("reports"))
 
 if __name__ == "__main__":
     main()

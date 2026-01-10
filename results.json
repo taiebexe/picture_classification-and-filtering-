@@ -12,6 +12,11 @@
   {
     "label": "GOOD",
     "reason": "Green leaves visible in pot",
+    "filename": "15e7460d-abfd-496a-9cca-612b4ca8db4a.jpeg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in pot",
     "filename": "22698671-2c45-4366-9cb9-d60143411e89.jpeg"
   },
   {
@@ -33,6 +38,11 @@
     "label": "GOOD",
     "reason": "Real green plant leaves visible",
     "filename": "6694b8ec-4e65-48b5-b188-6aaf5e5b3b8e.jpeg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No green leaves visible",
+    "filename": "6ef8135e-66ec-435c-afdd-3d534543694b.jpeg"
   },
   {
     "label": "GOOD",
@@ -57,7 +67,17 @@
   {
     "label": "GOOD",
     "reason": "Green leaves visible in pot",
+    "filename": "a6324b19-ef71-4fd9-b8d0-542756757287.jpeg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in pot",
     "filename": "a7143d0b-eca3-49ed-8963-4535a9a75c06.jpeg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in pot",
+    "filename": "ac3c66d7-43cd-4ec7-b3a9-b1af28142f33.jpeg"
   },
   {
     "label": "GOOD",
@@ -83,6 +103,11 @@
     "label": "BAD",
     "reason": "Empty pot with no visible green leaves or plant material",
     "filename": "f2600b44-22c6-4fbc-9fda-05cf916d6f52.jpeg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in pot",
+    "filename": "f5d317c7-f181-4add-81ee-ae19b122dc94.jpeg"
   },
   {
     "label": "BAD",
