@@ -2,6 +2,252 @@ filename,y_true,y_pred,reason
 07044ba1-5b02-4410-b15d-dc6b15f7052c.jpeg,GOOD,BAD,No green leaves visible
 0cd879c2-0b62-4114-8286-f861997d5de8.jpeg,GOOD,GOOD,Green leaves visible in soil
 15e7460d-abfd-496a-9cca-612b4ca8db4a.jpeg,GOOD,GOOD,Green leaves visible in pot
+1761631672_farmbot_uzk_2_12447.jpg,,GOOD,Small plant with green leaves visible
+1761631672_farmbot_uzk_2_12448.jpg,,BAD,No green leaves visible
+1761631672_farmbot_uzk_2_12449.jpg,,BAD,No green leaves visible
+1761631672_farmbot_uzk_2_12450.jpg,,GOOD,Green leaves visible in pot
+1761631672_farmbot_uzk_2_12451.jpg,,BAD,No green leaves visible
+1761631673_farmbot_uzk_2_12452.jpg,,BAD,No green leaves visible
+1761631748_farmbot_uzk_2_12453.jpg,,BAD,No real green plant leaves visible
+1761631748_farmbot_uzk_2_12454.jpg,,BAD,No real green plant leaves visible
+1761631748_farmbot_uzk_2_12455.jpg,,BAD,No green leaves visible
+1761631748_farmbot_uzk_2_12456.jpg,,BAD,No green leaves visible
+1761631748_farmbot_uzk_2_12457.jpg,,BAD,No green leaves visible
+1761631749_farmbot_uzk_2_12458.jpg,,GOOD,Green plant with visible leaves and stem
+1761674836_farmbot_uzk_2_12459.jpg,,GOOD,Small green plant with leaves visible in soil
+1761674836_farmbot_uzk_2_12460.jpg,,GOOD,Small plant with green leaves in pot
+1761674836_farmbot_uzk_2_12461.jpg,,GOOD,Green leaves visible in soil
+1761674836_farmbot_uzk_2_12462.jpg,,GOOD,Small green plant with leaves visible
+1761674836_farmbot_uzk_2_12463.jpg,,GOOD,Small plant with green leaves in soil
+1761674837_farmbot_uzk_2_12464.jpg,,GOOD,Small green plant with leaves visible in soil
+1761674892_farmbot_uzk_2_12465.jpg,,GOOD,Small green plant in pot with soil and perlite
+1761674892_farmbot_uzk_2_12466.jpg,,GOOD,Green leaves visible in soil
+1761674892_farmbot_uzk_2_12467.jpg,,GOOD,Small plant with green leaves visible in soil
+1761674893_farmbot_uzk_2_12468.jpg,,GOOD,Small plant with green leaves visible in soil
+1761674893_farmbot_uzk_2_12469.jpg,,GOOD,Small green plant with leaves visible
+1761674893_farmbot_uzk_2_12470.jpg,,GOOD,Green leaves visible in soil
+1761674944_farmbot_uzk_2_12471.jpg,,GOOD,Small plant with green leaves visible in pot
+1761674944_farmbot_uzk_2_12472.jpg,,GOOD,Small green plant in pot with soil and perlite
+1761674944_farmbot_uzk_2_12473.jpg,,GOOD,Small green plant with leaves visible
+1761674945_farmbot_uzk_2_12474.jpg,,GOOD,Green leaves visible in center of pot
+1761674945_farmbot_uzk_2_12475.jpg,,GOOD,Small green plant in pot
+1761674945_farmbot_uzk_2_12476.jpg,,GOOD,Small green plant with leaves visible
+1761718035_farmbot_uzk_2_12477.jpg,,GOOD,Small plant with green leaves in soil
+1761718035_farmbot_uzk_2_12478.jpg,,GOOD,Small plant with green leaves in pot
+1761718035_farmbot_uzk_2_12479.jpg,,GOOD,Green leaves visible in soil
+1761718035_farmbot_uzk_2_12480.jpg,,GOOD,Green leaves visible in soil
+1761718036_farmbot_uzk_2_12481.jpg,,GOOD,Small green plant in pot
+1761718036_farmbot_uzk_2_12482.jpg,,GOOD,Green leaves visible in soil
+1761718086_farmbot_uzk_2_12483.jpg,,GOOD,Small green plant with leaves visible in soil
+1761718086_farmbot_uzk_2_12484.jpg,,GOOD,Small plant with green leaves visible
+1761718086_farmbot_uzk_2_12485.jpg,,GOOD,Small plant with green leaves in soil
+1761718086_farmbot_uzk_2_12486.jpg,,GOOD,Small plant with green leaves visible in soil
+1761718087_farmbot_uzk_2_12487.jpg,,GOOD,Small green plant with leaves visible
+1761718087_farmbot_uzk_2_12488.jpg,,GOOD,Real green plant leaves visible
+1761718135_farmbot_uzk_2_12489.jpg,,GOOD,Green leaves visible in pot
+1761718135_farmbot_uzk_2_12490.jpg,,GOOD,Small green plant with leaves visible
+1761718135_farmbot_uzk_2_12491.jpg,,GOOD,Green leaves visible in soil
+1761718135_farmbot_uzk_2_12492.jpg,,GOOD,Small plant with green leaves in soil
+1761718136_farmbot_uzk_2_12493.jpg,,GOOD,Small green plant visible in pot
+1761718136_farmbot_uzk_2_12494.jpg,,GOOD,Small green plant with leaves visible in soil
+1761721600_farmbot_uzk_2_12495.jpg,,GOOD,Small plant with green leaves in soil
+1761721600_farmbot_uzk_2_12496.jpg,,GOOD,Small plant with green leaves in soil
+1761721600_farmbot_uzk_2_12497.jpg,,GOOD,Small green plant with leaves visible in soil
+1761721600_farmbot_uzk_2_12498.jpg,,GOOD,Real plant with visible green leaves and central stem
+1761721601_farmbot_uzk_2_12499.jpg,,GOOD,Small green plant with leaves visible in soil
+1761721601_farmbot_uzk_2_12500.jpg,,GOOD,Green leaves visible in soil
+1761721651_farmbot_uzk_2_12501.jpg,,GOOD,Small green plant with leaves visible in soil
+1761721651_farmbot_uzk_2_12502.jpg,,BAD,No green leaves visible
+1761721652_farmbot_uzk_2_12503.jpg,,GOOD,Green leaves visible in soil
+1761721652_farmbot_uzk_2_12504.jpg,,GOOD,Small plant with green leaves visible in soil
+1761721652_farmbot_uzk_2_12505.jpg,,GOOD,Small plant with green leaves in pot
+1761721652_farmbot_uzk_2_12506.jpg,,GOOD,Small green plant with leaves visible
+1761721702_farmbot_uzk_2_12507.jpg,,GOOD,Green leaves visible in pot
+1761721702_farmbot_uzk_2_12508.jpg,,GOOD,Small green plant with leaves visible
+1761721702_farmbot_uzk_2_12509.jpg,,GOOD,Green leaves visible in soil
+1761721702_farmbot_uzk_2_12510.jpg,,GOOD,Small plant with green leaves in pot
+1761721703_farmbot_uzk_2_12511.jpg,,GOOD,Green leaves visible in pot
+1761721703_farmbot_uzk_2_12512.jpg,,GOOD,Small green plant with leaves visible in soil
+1761725765_farmbot_uzk_2_12513.jpg,,GOOD,Small green plant with leaves visible
+1761725765_farmbot_uzk_2_12514.jpg,,GOOD,Small plant with green leaves in soil
+1761725765_farmbot_uzk_2_12515.jpg,,GOOD,Green leaves visible in soil
+1761725766_farmbot_uzk_2_12516.jpg,,GOOD,Green leaves visible in soil
+1761725766_farmbot_uzk_2_12517.jpg,,GOOD,Small plant with green leaves visible in pot
+1761725766_farmbot_uzk_2_12518.jpg,,GOOD,Green leaves visible in pot with soil and perlite
+1761727511_farmbot_uzk_2_12519.jpg,,GOOD,Small plant with green leaves visible
+1761727511_farmbot_uzk_2_12520.jpg,,GOOD,Green leaves visible in pot with soil and perlite
+1761727511_farmbot_uzk_2_12521.jpg,,GOOD,Small plant with green leaves in soil
+1761727512_farmbot_uzk_2_12522.jpg,,GOOD,Green leaves visible in soil
+1761727512_farmbot_uzk_2_12523.jpg,,GOOD,Green leaves visible in pot with soil and perlite
+1761727512_farmbot_uzk_2_12524.jpg,,GOOD,Green leaves visible in pot
+1761727559_farmbot_uzk_2_12525.jpg,,GOOD,Small green plant with leaves visible in soil
+1761727560_farmbot_uzk_2_12526.jpg,,GOOD,Green leaves visible in soil
+1761727560_farmbot_uzk_2_12527.jpg,,GOOD,Green leaves visible in soil
+1761727560_farmbot_uzk_2_12528.jpg,,GOOD,Small green plant with leaves visible in soil
+1761727560_farmbot_uzk_2_12529.jpg,,GOOD,Small plant with green leaves visible
+1761727560_farmbot_uzk_2_12530.jpg,,GOOD,Green leaves visible in soil
+1761727606_farmbot_uzk_2_12531.jpg,,GOOD,Green leaves visible in pot
+1761727606_farmbot_uzk_2_12532.jpg,,GOOD,Green leaves visible in pot
+1761727606_farmbot_uzk_2_12533.jpg,,GOOD,Green leaves visible in pot
+1761727606_farmbot_uzk_2_12534.jpg,,GOOD,Green leaves visible in pot with soil and perlite
+1761727607_farmbot_uzk_2_12535.jpg,,GOOD,Small green plant with leaves visible
+1761727607_farmbot_uzk_2_12536.jpg,,GOOD,Green leaves visible in center of pot
+1761728067_farmbot_uzk_2_12537.jpg,,GOOD,Small plant with green leaves in soil
+1761728067_farmbot_uzk_2_12538.jpg,,GOOD,Green leaves visible in center of pot
+1761728067_farmbot_uzk_2_12539.jpg,,GOOD,Green leaves visible in soil
+1761728067_farmbot_uzk_2_12540.jpg,,GOOD,Small green plant with leaves visible
+1761728067_farmbot_uzk_2_12541.jpg,,GOOD,Small plant with green leaves in soil and perlite
+1761728068_farmbot_uzk_2_12542.jpg,,GOOD,Green leaves visible in pot
+1761728112_farmbot_uzk_2_12543.jpg,,GOOD,Small green plant with leaves visible
+1761728112_farmbot_uzk_2_12544.jpg,,GOOD,Small green plant in pot with soil and perlite
+1761728113_farmbot_uzk_2_12545.jpg,,GOOD,Green leaves visible in soil
+1761728113_farmbot_uzk_2_12546.jpg,,GOOD,Small green plant with leaves visible
+1761728113_farmbot_uzk_2_12547.jpg,,GOOD,Small green plant with leaves visible in pot
+1761728113_farmbot_uzk_2_12548.jpg,,GOOD,Small green plant in pot with soil and perlite
+1761728168_farmbot_uzk_2_12549.jpg,,GOOD,Small green plant with leaves visible in soil
+1761728168_farmbot_uzk_2_12550.jpg,,GOOD,Green leaves visible in soil
+1761728168_farmbot_uzk_2_12551.jpg,,GOOD,Small plant with green leaves in soil
+1761728169_farmbot_uzk_2_12552.jpg,,GOOD,Green leaves visible in soil
+1761728169_farmbot_uzk_2_12553.jpg,,GOOD,Small plant with green leaves visible in soil
+1761728169_farmbot_uzk_2_12554.jpg,,GOOD,Green leaves visible in soil
+1761728213_farmbot_uzk_2_12555.jpg,,GOOD,Green leaves visible in soil
+1761728213_farmbot_uzk_2_12556.jpg,,GOOD,Small green plant with leaves visible
+1761728214_farmbot_uzk_2_12557.jpg,,GOOD,Green leaves visible in soil
+1761728214_farmbot_uzk_2_12558.jpg,,GOOD,Green leaves visible in pot
+1761728214_farmbot_uzk_2_12559.jpg,,GOOD,Small green plant with leaves visible
+1761728214_farmbot_uzk_2_12560.jpg,,GOOD,Small green plant with leaves visible in soil
+1761729576_farmbot_uzk_2_12561.jpg,,GOOD,Green leaves visible in soil
+1761729576_farmbot_uzk_2_12562.jpg,,GOOD,Green leaves visible in center of pot
+1761729576_farmbot_uzk_2_12563.jpg,,GOOD,Green leaves visible in soil
+1761729577_farmbot_uzk_2_12564.jpg,,GOOD,Green leaves visible in soil
+1761729577_farmbot_uzk_2_12565.jpg,,GOOD,Green leaves visible in pot
+1761729577_farmbot_uzk_2_12566.jpg,,GOOD,Green leaves visible in soil
+1761729621_farmbot_uzk_2_12567.jpg,,GOOD,Small green plant with leaves visible
+1761729622_farmbot_uzk_2_12568.jpg,,GOOD,Small green plant in pot with soil and perlite
+1761729622_farmbot_uzk_2_12569.jpg,,GOOD,Green leaves visible in soil
+1761729622_farmbot_uzk_2_12570.jpg,,GOOD,Green leaves visible in soil
+1761729622_farmbot_uzk_2_12571.jpg,,GOOD,Green leaves visible in pot
+1761729623_farmbot_uzk_2_12572.jpg,,GOOD,Green leaves visible in pot with soil and perlite
+1761729670_farmbot_uzk_2_12573.jpg,,GOOD,Real green plant leaves visible
+1761729670_farmbot_uzk_2_12574.jpg,,GOOD,Green leaves visible in soil
+1761729670_farmbot_uzk_2_12575.jpg,,GOOD,Green plant with leaves visible in soil
+1761729670_farmbot_uzk_2_12576.jpg,,GOOD,Green leaves visible in soil
+1761729671_farmbot_uzk_2_12577.jpg,,GOOD,Small plant with green leaves visible in pot
+1761729671_farmbot_uzk_2_12578.jpg,,GOOD,Green leaves visible in soil
+1761729715_farmbot_uzk_2_12579.jpg,,GOOD,Small plant with green leaves in soil
+1761729715_farmbot_uzk_2_12580.jpg,,GOOD,Green leaves visible in pot
+1761729716_farmbot_uzk_2_12581.jpg,,GOOD,Green leaves visible in soil
+1761729716_farmbot_uzk_2_12582.jpg,,GOOD,Green leaves visible in soil
+1761729716_farmbot_uzk_2_12583.jpg,,GOOD,Small green plant with leaves visible
+1761729716_farmbot_uzk_2_12584.jpg,,GOOD,Green leaves visible in center of pot
+1761730176_farmbot_uzk_2_12585.jpg,,GOOD,Green leaves visible in soil
+1761730176_farmbot_uzk_2_12586.jpg,,GOOD,Small green plant with leaves visible in soil
+1761730176_farmbot_uzk_2_12587.jpg,,GOOD,Green leaves visible in soil
+1761730176_farmbot_uzk_2_12588.jpg,,GOOD,Small green plant with leaves visible in soil
+1761730176_farmbot_uzk_2_12589.jpg,,GOOD,Green leaves visible in soil
+1761730177_farmbot_uzk_2_12590.jpg,,GOOD,Green leaves visible in soil
+1761730629_farmbot_uzk_2_12591.jpg,,GOOD,Small plant with green leaves visible in pot
+1761730629_farmbot_uzk_2_12592.jpg,,GOOD,Small plant with green leaves in soil
+1761730629_farmbot_uzk_2_12593.jpg,,BAD,No real green plant leaves visible
+1761730629_farmbot_uzk_2_12594.jpg,,GOOD,Green leaves visible in soil
+1761730630_farmbot_uzk_2_12595.jpg,,GOOD,Small green plant with leaves visible in pot
+1761730630_farmbot_uzk_2_12596.jpg,,GOOD,Green leaves visible on plant
+1761731677_farmbot_uzk_2_12597.jpg,,GOOD,Small plant with green leaves in pot
+1761731677_farmbot_uzk_2_12598.jpg,,GOOD,Green leaves visible in center of pot
+1761731677_farmbot_uzk_2_12599.jpg,,GOOD,Green leaves visible in soil
+1761731677_farmbot_uzk_2_12600.jpg,,GOOD,Green leaves visible in soil
+1761731677_farmbot_uzk_2_12601.jpg,,GOOD,Small green plant with leaves visible in soil
+1761731678_farmbot_uzk_2_12602.jpg,,GOOD,Green leaves visible in soil
+1761733983_farmbot_uzk_2_12609.jpg,,GOOD,Green leaves visible in soil
+1761733983_farmbot_uzk_2_12610.jpg,,GOOD,Green leaves visible in center of pot
+1761733983_farmbot_uzk_2_12611.jpg,,GOOD,Green leaves visible in soil
+1761733984_farmbot_uzk_2_12612.jpg,,GOOD,Green leaves visible in soil
+1761733984_farmbot_uzk_2_12613.jpg,,GOOD,Small green plant with leaves visible in pot
+1761733984_farmbot_uzk_2_12614.jpg,,GOOD,Green leaves visible in soil
+1761734666_farmbot_uzk_2_12615.jpg,,GOOD,Green plant with leaves visible in pot
+1761734666_farmbot_uzk_2_12616.jpg,,GOOD,Green leaves visible in center of pot
+1761734666_farmbot_uzk_2_12617.jpg,,GOOD,Green leaves visible in soil
+1761734667_farmbot_uzk_2_12618.jpg,,GOOD,Green leaves visible in soil
+1761734667_farmbot_uzk_2_12619.jpg,,GOOD,Small green plant in pot with soil and perlite
+1761734667_farmbot_uzk_2_12620.jpg,,GOOD,Green leaves visible in pot
+1761735138_farmbot_uzk_2_12621.jpg,,GOOD,Green leaves visible in soil
+1761735138_farmbot_uzk_2_12622.jpg,,GOOD,Green leaves visible in center of pot
+1761735138_farmbot_uzk_2_12623.jpg,,GOOD,Small plant with green leaves in soil
+1761735139_farmbot_uzk_2_12624.jpg,,GOOD,Green leaves visible in soil
+1761735139_farmbot_uzk_2_12625.jpg,,GOOD,Green leaves visible in pot
+1761735139_farmbot_uzk_2_12626.jpg,,GOOD,Green leaves visible in soil
+1761735183_farmbot_uzk_2_12627.jpg,,GOOD,Green leaves visible in soil
+1761735183_farmbot_uzk_2_12628.jpg,,GOOD,Small green plant in pot with soil and perlite
+1761735184_farmbot_uzk_2_12629.jpg,,GOOD,Green leaves visible in soil
+1761735184_farmbot_uzk_2_12630.jpg,,GOOD,Green leaves visible in center of pot
+1761735184_farmbot_uzk_2_12631.jpg,,GOOD,Small green plant in pot with soil and perlite
+1761735184_farmbot_uzk_2_12632.jpg,,GOOD,Green leaves visible in soil
+1761735230_farmbot_uzk_2_12633.jpg,,GOOD,Small green plant with leaves visible in soil
+1761735231_farmbot_uzk_2_12634.jpg,,GOOD,Green leaves visible in soil
+1761735231_farmbot_uzk_2_12635.jpg,,GOOD,Small green plant in pot with soil and perlite
+1761735231_farmbot_uzk_2_12636.jpg,,GOOD,Small plant with green leaves in soil
+1761735231_farmbot_uzk_2_12637.jpg,,GOOD,Small plant with green leaves in soil
+1761735232_farmbot_uzk_2_12638.jpg,,GOOD,Green leaves visible in soil
+1761735275_farmbot_uzk_2_12639.jpg,,GOOD,Green leaves visible in center of pot
+1761735276_farmbot_uzk_2_12640.jpg,,GOOD,Small green plant with leaves visible in pot
+1761735276_farmbot_uzk_2_12641.jpg,,GOOD,Green leaves visible in soil
+1761735276_farmbot_uzk_2_12642.jpg,,GOOD,Green leaves visible in pot with soil and perlite
+1761735276_farmbot_uzk_2_12643.jpg,,GOOD,Small green plant visible in pot
+1761735276_farmbot_uzk_2_12644.jpg,,GOOD,Green leaves visible in soil
+1761736258_farmbot_uzk_2_12645.jpg,,GOOD,Green leaves visible in soil
+1761736258_farmbot_uzk_2_12646.jpg,,GOOD,Green leaves visible in center of pot
+1761736258_farmbot_uzk_2_12647.jpg,,GOOD,Green plant with leaves visible in pot
+1761736258_farmbot_uzk_2_12648.jpg,,GOOD,Green leaves visible in soil
+1761736259_farmbot_uzk_2_12649.jpg,,GOOD,Green leaves visible in soil
+1761736259_farmbot_uzk_2_12650.jpg,,GOOD,Small green plant with leaves visible in soil
+1761977282_farmbot_uzk_2_12711.jpg,,BAD,No green leaves visible
+1761977282_farmbot_uzk_2_12712.jpg,,GOOD,Green leaves visible in pot
+1761977282_farmbot_uzk_2_12713.jpg,,BAD,No green leaves visible
+1761977283_farmbot_uzk_2_12714.jpg,,BAD,No green leaves visible
+1761977283_farmbot_uzk_2_12715.jpg,,BAD,No green leaves visible
+1761977283_farmbot_uzk_2_12716.jpg,,BAD,No green leaves visible
+1761977334_farmbot_uzk_2_12717.jpg,,BAD,No green leaves visible
+1761977334_farmbot_uzk_2_12718.jpg,,BAD,No green leaves visible
+1761977334_farmbot_uzk_2_12719.jpg,,BAD,No green leaves visible
+1761977334_farmbot_uzk_2_12720.jpg,,BAD,No green leaves visible
+1761977335_farmbot_uzk_2_12721.jpg,,BAD,No green leaves visible
+1761977335_farmbot_uzk_2_12722.jpg,,BAD,No green leaves visible
+1761977382_farmbot_uzk_2_12723.jpg,,BAD,No green leaves visible
+1761977383_farmbot_uzk_2_12724.jpg,,BAD,No green leaves visible
+1761977383_farmbot_uzk_2_12725.jpg,,BAD,No green leaves visible
+1761977383_farmbot_uzk_2_12726.jpg,,BAD,No green leaves visible
+1761977383_farmbot_uzk_2_12727.jpg,,BAD,No green leaves visible
+1761977384_farmbot_uzk_2_12728.jpg,,BAD,No green leaves visible
+1761977428_farmbot_uzk_2_12729.jpg,,BAD,No green leaves visible
+1761977429_farmbot_uzk_2_12730.jpg,,GOOD,Green leaves visible in pot
+1761977429_farmbot_uzk_2_12731.jpg,,BAD,No green leaves visible
+1761977429_farmbot_uzk_2_12732.jpg,,BAD,No green leaves visible
+1761977429_farmbot_uzk_2_12733.jpg,,BAD,No green leaves visible
+1761977429_farmbot_uzk_2_12734.jpg,,GOOD,Green leaves visible in pot
+1762020517_farmbot_uzk_2_12735.jpg,,BAD,No green leaves visible
+1762020518_farmbot_uzk_2_12736.jpg,,BAD,No green leaves visible
+1762020518_farmbot_uzk_2_12737.jpg,,BAD,No green leaves visible
+1762020518_farmbot_uzk_2_12738.jpg,,BAD,No green leaves visible
+1762020518_farmbot_uzk_2_12739.jpg,,BAD,No green leaves visible
+1762020518_farmbot_uzk_2_12740.jpg,,BAD,No green leaves visible
+1762020563_farmbot_uzk_2_12741.jpg,,BAD,No green leaves visible
+1762020563_farmbot_uzk_2_12742.jpg,,BAD,No green leaves visible
+1762020563_farmbot_uzk_2_12743.jpg,,BAD,Empty pot with soil only
+1762020564_farmbot_uzk_2_12744.jpg,,BAD,Empty pot with soil only
+1762020564_farmbot_uzk_2_12745.jpg,,BAD,No green leaves visible
+1762020564_farmbot_uzk_2_12746.jpg,,GOOD,Green leaves visible in soil
+1762020611_farmbot_uzk_2_12747.jpg,,BAD,No green leaves visible
+1762020611_farmbot_uzk_2_12748.jpg,,BAD,No green leaves visible
+1762020611_farmbot_uzk_2_12749.jpg,,BAD,Empty pot with soil only
+1762020612_farmbot_uzk_2_12750.jpg,,BAD,No green leaves visible
+1762020612_farmbot_uzk_2_12751.jpg,,BAD,No green leaves visible
+1762020612_farmbot_uzk_2_12752.jpg,,BAD,No green leaves visible
+1762020658_farmbot_uzk_2_12753.jpg,,BAD,No green leaves visible
+1762020658_farmbot_uzk_2_12754.jpg,,BAD,No green leaves visible
+1762020658_farmbot_uzk_2_12755.jpg,,BAD,No green leaves visible
+1762020658_farmbot_uzk_2_12756.jpg,,BAD,No green leaves visible
+1762020658_farmbot_uzk_2_12757.jpg,,BAD,No green leaves visible
+1762020659_farmbot_uzk_2_12758.jpg,,BAD,No green leaves visible
 22698671-2c45-4366-9cb9-d60143411e89.jpeg,GOOD,GOOD,Green leaves visible in pot
 2690acf3-77b2-43ca-911f-a710dfa80f08.jpeg,GOOD,GOOD,Green leaves visible in pot
 36636333-f9d1-4f5d-880b-d28849cf63a2.jpeg,GOOD,BAD,No green leaves visible

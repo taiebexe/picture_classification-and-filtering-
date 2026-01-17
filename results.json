@@ -16,6 +16,1236 @@
   },
   {
     "label": "GOOD",
+    "reason": "Small plant with green leaves visible",
+    "filename": "1761631672_farmbot_uzk_2_12447.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No green leaves visible",
+    "filename": "1761631672_farmbot_uzk_2_12448.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No green leaves visible",
+    "filename": "1761631672_farmbot_uzk_2_12449.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in pot",
+    "filename": "1761631672_farmbot_uzk_2_12450.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No green leaves visible",
+    "filename": "1761631672_farmbot_uzk_2_12451.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No green leaves visible",
+    "filename": "1761631673_farmbot_uzk_2_12452.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No real green plant leaves visible",
+    "filename": "1761631748_farmbot_uzk_2_12453.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No real green plant leaves visible",
+    "filename": "1761631748_farmbot_uzk_2_12454.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No green leaves visible",
+    "filename": "1761631748_farmbot_uzk_2_12455.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No green leaves visible",
+    "filename": "1761631748_farmbot_uzk_2_12456.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No green leaves visible",
+    "filename": "1761631748_farmbot_uzk_2_12457.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green plant with visible leaves and stem",
+    "filename": "1761631749_farmbot_uzk_2_12458.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small green plant with leaves visible in soil",
+    "filename": "1761674836_farmbot_uzk_2_12459.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small plant with green leaves in pot",
+    "filename": "1761674836_farmbot_uzk_2_12460.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761674836_farmbot_uzk_2_12461.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small green plant with leaves visible",
+    "filename": "1761674836_farmbot_uzk_2_12462.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small plant with green leaves in soil",
+    "filename": "1761674836_farmbot_uzk_2_12463.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small green plant with leaves visible in soil",
+    "filename": "1761674837_farmbot_uzk_2_12464.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small green plant in pot with soil and perlite",
+    "filename": "1761674892_farmbot_uzk_2_12465.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761674892_farmbot_uzk_2_12466.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small plant with green leaves visible in soil",
+    "filename": "1761674892_farmbot_uzk_2_12467.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small plant with green leaves visible in soil",
+    "filename": "1761674893_farmbot_uzk_2_12468.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small green plant with leaves visible",
+    "filename": "1761674893_farmbot_uzk_2_12469.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761674893_farmbot_uzk_2_12470.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small plant with green leaves visible in pot",
+    "filename": "1761674944_farmbot_uzk_2_12471.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small green plant in pot with soil and perlite",
+    "filename": "1761674944_farmbot_uzk_2_12472.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small green plant with leaves visible",
+    "filename": "1761674944_farmbot_uzk_2_12473.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in center of pot",
+    "filename": "1761674945_farmbot_uzk_2_12474.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small green plant in pot",
+    "filename": "1761674945_farmbot_uzk_2_12475.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small green plant with leaves visible",
+    "filename": "1761674945_farmbot_uzk_2_12476.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small plant with green leaves in soil",
+    "filename": "1761718035_farmbot_uzk_2_12477.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small plant with green leaves in pot",
+    "filename": "1761718035_farmbot_uzk_2_12478.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761718035_farmbot_uzk_2_12479.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761718035_farmbot_uzk_2_12480.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small green plant in pot",
+    "filename": "1761718036_farmbot_uzk_2_12481.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761718036_farmbot_uzk_2_12482.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small green plant with leaves visible in soil",
+    "filename": "1761718086_farmbot_uzk_2_12483.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small plant with green leaves visible",
+    "filename": "1761718086_farmbot_uzk_2_12484.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small plant with green leaves in soil",
+    "filename": "1761718086_farmbot_uzk_2_12485.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small plant with green leaves visible in soil",
+    "filename": "1761718086_farmbot_uzk_2_12486.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small green plant with leaves visible",
+    "filename": "1761718087_farmbot_uzk_2_12487.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Real green plant leaves visible",
+    "filename": "1761718087_farmbot_uzk_2_12488.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in pot",
+    "filename": "1761718135_farmbot_uzk_2_12489.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small green plant with leaves visible",
+    "filename": "1761718135_farmbot_uzk_2_12490.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761718135_farmbot_uzk_2_12491.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small plant with green leaves in soil",
+    "filename": "1761718135_farmbot_uzk_2_12492.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small green plant visible in pot",
+    "filename": "1761718136_farmbot_uzk_2_12493.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small green plant with leaves visible in soil",
+    "filename": "1761718136_farmbot_uzk_2_12494.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small plant with green leaves in soil",
+    "filename": "1761721600_farmbot_uzk_2_12495.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small plant with green leaves in soil",
+    "filename": "1761721600_farmbot_uzk_2_12496.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small green plant with leaves visible in soil",
+    "filename": "1761721600_farmbot_uzk_2_12497.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Real plant with visible green leaves and central stem",
+    "filename": "1761721600_farmbot_uzk_2_12498.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small green plant with leaves visible in soil",
+    "filename": "1761721601_farmbot_uzk_2_12499.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761721601_farmbot_uzk_2_12500.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small green plant with leaves visible in soil",
+    "filename": "1761721651_farmbot_uzk_2_12501.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No green leaves visible",
+    "filename": "1761721651_farmbot_uzk_2_12502.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761721652_farmbot_uzk_2_12503.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small plant with green leaves visible in soil",
+    "filename": "1761721652_farmbot_uzk_2_12504.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small plant with green leaves in pot",
+    "filename": "1761721652_farmbot_uzk_2_12505.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small green plant with leaves visible",
+    "filename": "1761721652_farmbot_uzk_2_12506.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in pot",
+    "filename": "1761721702_farmbot_uzk_2_12507.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small green plant with leaves visible",
+    "filename": "1761721702_farmbot_uzk_2_12508.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761721702_farmbot_uzk_2_12509.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small plant with green leaves in pot",
+    "filename": "1761721702_farmbot_uzk_2_12510.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in pot",
+    "filename": "1761721703_farmbot_uzk_2_12511.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small green plant with leaves visible in soil",
+    "filename": "1761721703_farmbot_uzk_2_12512.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small green plant with leaves visible",
+    "filename": "1761725765_farmbot_uzk_2_12513.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small plant with green leaves in soil",
+    "filename": "1761725765_farmbot_uzk_2_12514.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761725765_farmbot_uzk_2_12515.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761725766_farmbot_uzk_2_12516.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small plant with green leaves visible in pot",
+    "filename": "1761725766_farmbot_uzk_2_12517.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in pot with soil and perlite",
+    "filename": "1761725766_farmbot_uzk_2_12518.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small plant with green leaves visible",
+    "filename": "1761727511_farmbot_uzk_2_12519.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in pot with soil and perlite",
+    "filename": "1761727511_farmbot_uzk_2_12520.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small plant with green leaves in soil",
+    "filename": "1761727511_farmbot_uzk_2_12521.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761727512_farmbot_uzk_2_12522.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in pot with soil and perlite",
+    "filename": "1761727512_farmbot_uzk_2_12523.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in pot",
+    "filename": "1761727512_farmbot_uzk_2_12524.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small green plant with leaves visible in soil",
+    "filename": "1761727559_farmbot_uzk_2_12525.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761727560_farmbot_uzk_2_12526.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761727560_farmbot_uzk_2_12527.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small green plant with leaves visible in soil",
+    "filename": "1761727560_farmbot_uzk_2_12528.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small plant with green leaves visible",
+    "filename": "1761727560_farmbot_uzk_2_12529.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761727560_farmbot_uzk_2_12530.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in pot",
+    "filename": "1761727606_farmbot_uzk_2_12531.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in pot",
+    "filename": "1761727606_farmbot_uzk_2_12532.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in pot",
+    "filename": "1761727606_farmbot_uzk_2_12533.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in pot with soil and perlite",
+    "filename": "1761727606_farmbot_uzk_2_12534.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small green plant with leaves visible",
+    "filename": "1761727607_farmbot_uzk_2_12535.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in center of pot",
+    "filename": "1761727607_farmbot_uzk_2_12536.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small plant with green leaves in soil",
+    "filename": "1761728067_farmbot_uzk_2_12537.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in center of pot",
+    "filename": "1761728067_farmbot_uzk_2_12538.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761728067_farmbot_uzk_2_12539.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small green plant with leaves visible",
+    "filename": "1761728067_farmbot_uzk_2_12540.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small plant with green leaves in soil and perlite",
+    "filename": "1761728067_farmbot_uzk_2_12541.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in pot",
+    "filename": "1761728068_farmbot_uzk_2_12542.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small green plant with leaves visible",
+    "filename": "1761728112_farmbot_uzk_2_12543.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small green plant in pot with soil and perlite",
+    "filename": "1761728112_farmbot_uzk_2_12544.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761728113_farmbot_uzk_2_12545.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small green plant with leaves visible",
+    "filename": "1761728113_farmbot_uzk_2_12546.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small green plant with leaves visible in pot",
+    "filename": "1761728113_farmbot_uzk_2_12547.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small green plant in pot with soil and perlite",
+    "filename": "1761728113_farmbot_uzk_2_12548.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small green plant with leaves visible in soil",
+    "filename": "1761728168_farmbot_uzk_2_12549.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761728168_farmbot_uzk_2_12550.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small plant with green leaves in soil",
+    "filename": "1761728168_farmbot_uzk_2_12551.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761728169_farmbot_uzk_2_12552.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small plant with green leaves visible in soil",
+    "filename": "1761728169_farmbot_uzk_2_12553.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761728169_farmbot_uzk_2_12554.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761728213_farmbot_uzk_2_12555.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small green plant with leaves visible",
+    "filename": "1761728213_farmbot_uzk_2_12556.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761728214_farmbot_uzk_2_12557.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in pot",
+    "filename": "1761728214_farmbot_uzk_2_12558.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small green plant with leaves visible",
+    "filename": "1761728214_farmbot_uzk_2_12559.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small green plant with leaves visible in soil",
+    "filename": "1761728214_farmbot_uzk_2_12560.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761729576_farmbot_uzk_2_12561.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in center of pot",
+    "filename": "1761729576_farmbot_uzk_2_12562.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761729576_farmbot_uzk_2_12563.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761729577_farmbot_uzk_2_12564.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in pot",
+    "filename": "1761729577_farmbot_uzk_2_12565.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761729577_farmbot_uzk_2_12566.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small green plant with leaves visible",
+    "filename": "1761729621_farmbot_uzk_2_12567.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small green plant in pot with soil and perlite",
+    "filename": "1761729622_farmbot_uzk_2_12568.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761729622_farmbot_uzk_2_12569.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761729622_farmbot_uzk_2_12570.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in pot",
+    "filename": "1761729622_farmbot_uzk_2_12571.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in pot with soil and perlite",
+    "filename": "1761729623_farmbot_uzk_2_12572.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Real green plant leaves visible",
+    "filename": "1761729670_farmbot_uzk_2_12573.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761729670_farmbot_uzk_2_12574.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green plant with leaves visible in soil",
+    "filename": "1761729670_farmbot_uzk_2_12575.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761729670_farmbot_uzk_2_12576.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small plant with green leaves visible in pot",
+    "filename": "1761729671_farmbot_uzk_2_12577.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761729671_farmbot_uzk_2_12578.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small plant with green leaves in soil",
+    "filename": "1761729715_farmbot_uzk_2_12579.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in pot",
+    "filename": "1761729715_farmbot_uzk_2_12580.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761729716_farmbot_uzk_2_12581.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761729716_farmbot_uzk_2_12582.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small green plant with leaves visible",
+    "filename": "1761729716_farmbot_uzk_2_12583.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in center of pot",
+    "filename": "1761729716_farmbot_uzk_2_12584.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761730176_farmbot_uzk_2_12585.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small green plant with leaves visible in soil",
+    "filename": "1761730176_farmbot_uzk_2_12586.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761730176_farmbot_uzk_2_12587.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small green plant with leaves visible in soil",
+    "filename": "1761730176_farmbot_uzk_2_12588.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761730176_farmbot_uzk_2_12589.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761730177_farmbot_uzk_2_12590.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small plant with green leaves visible in pot",
+    "filename": "1761730629_farmbot_uzk_2_12591.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small plant with green leaves in soil",
+    "filename": "1761730629_farmbot_uzk_2_12592.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No real green plant leaves visible",
+    "filename": "1761730629_farmbot_uzk_2_12593.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761730629_farmbot_uzk_2_12594.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small green plant with leaves visible in pot",
+    "filename": "1761730630_farmbot_uzk_2_12595.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible on plant",
+    "filename": "1761730630_farmbot_uzk_2_12596.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small plant with green leaves in pot",
+    "filename": "1761731677_farmbot_uzk_2_12597.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in center of pot",
+    "filename": "1761731677_farmbot_uzk_2_12598.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761731677_farmbot_uzk_2_12599.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761731677_farmbot_uzk_2_12600.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small green plant with leaves visible in soil",
+    "filename": "1761731677_farmbot_uzk_2_12601.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761731678_farmbot_uzk_2_12602.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761733983_farmbot_uzk_2_12609.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in center of pot",
+    "filename": "1761733983_farmbot_uzk_2_12610.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761733983_farmbot_uzk_2_12611.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761733984_farmbot_uzk_2_12612.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small green plant with leaves visible in pot",
+    "filename": "1761733984_farmbot_uzk_2_12613.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761733984_farmbot_uzk_2_12614.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green plant with leaves visible in pot",
+    "filename": "1761734666_farmbot_uzk_2_12615.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in center of pot",
+    "filename": "1761734666_farmbot_uzk_2_12616.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761734666_farmbot_uzk_2_12617.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761734667_farmbot_uzk_2_12618.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small green plant in pot with soil and perlite",
+    "filename": "1761734667_farmbot_uzk_2_12619.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in pot",
+    "filename": "1761734667_farmbot_uzk_2_12620.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761735138_farmbot_uzk_2_12621.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in center of pot",
+    "filename": "1761735138_farmbot_uzk_2_12622.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small plant with green leaves in soil",
+    "filename": "1761735138_farmbot_uzk_2_12623.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761735139_farmbot_uzk_2_12624.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in pot",
+    "filename": "1761735139_farmbot_uzk_2_12625.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761735139_farmbot_uzk_2_12626.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761735183_farmbot_uzk_2_12627.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small green plant in pot with soil and perlite",
+    "filename": "1761735183_farmbot_uzk_2_12628.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761735184_farmbot_uzk_2_12629.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in center of pot",
+    "filename": "1761735184_farmbot_uzk_2_12630.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small green plant in pot with soil and perlite",
+    "filename": "1761735184_farmbot_uzk_2_12631.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761735184_farmbot_uzk_2_12632.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small green plant with leaves visible in soil",
+    "filename": "1761735230_farmbot_uzk_2_12633.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761735231_farmbot_uzk_2_12634.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small green plant in pot with soil and perlite",
+    "filename": "1761735231_farmbot_uzk_2_12635.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small plant with green leaves in soil",
+    "filename": "1761735231_farmbot_uzk_2_12636.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small plant with green leaves in soil",
+    "filename": "1761735231_farmbot_uzk_2_12637.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761735232_farmbot_uzk_2_12638.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in center of pot",
+    "filename": "1761735275_farmbot_uzk_2_12639.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small green plant with leaves visible in pot",
+    "filename": "1761735276_farmbot_uzk_2_12640.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761735276_farmbot_uzk_2_12641.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in pot with soil and perlite",
+    "filename": "1761735276_farmbot_uzk_2_12642.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small green plant visible in pot",
+    "filename": "1761735276_farmbot_uzk_2_12643.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761735276_farmbot_uzk_2_12644.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761736258_farmbot_uzk_2_12645.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in center of pot",
+    "filename": "1761736258_farmbot_uzk_2_12646.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green plant with leaves visible in pot",
+    "filename": "1761736258_farmbot_uzk_2_12647.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761736258_farmbot_uzk_2_12648.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1761736259_farmbot_uzk_2_12649.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Small green plant with leaves visible in soil",
+    "filename": "1761736259_farmbot_uzk_2_12650.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No green leaves visible",
+    "filename": "1761977282_farmbot_uzk_2_12711.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in pot",
+    "filename": "1761977282_farmbot_uzk_2_12712.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No green leaves visible",
+    "filename": "1761977282_farmbot_uzk_2_12713.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No green leaves visible",
+    "filename": "1761977283_farmbot_uzk_2_12714.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No green leaves visible",
+    "filename": "1761977283_farmbot_uzk_2_12715.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No green leaves visible",
+    "filename": "1761977283_farmbot_uzk_2_12716.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No green leaves visible",
+    "filename": "1761977334_farmbot_uzk_2_12717.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No green leaves visible",
+    "filename": "1761977334_farmbot_uzk_2_12718.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No green leaves visible",
+    "filename": "1761977334_farmbot_uzk_2_12719.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No green leaves visible",
+    "filename": "1761977334_farmbot_uzk_2_12720.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No green leaves visible",
+    "filename": "1761977335_farmbot_uzk_2_12721.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No green leaves visible",
+    "filename": "1761977335_farmbot_uzk_2_12722.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No green leaves visible",
+    "filename": "1761977382_farmbot_uzk_2_12723.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No green leaves visible",
+    "filename": "1761977383_farmbot_uzk_2_12724.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No green leaves visible",
+    "filename": "1761977383_farmbot_uzk_2_12725.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No green leaves visible",
+    "filename": "1761977383_farmbot_uzk_2_12726.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No green leaves visible",
+    "filename": "1761977383_farmbot_uzk_2_12727.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No green leaves visible",
+    "filename": "1761977384_farmbot_uzk_2_12728.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No green leaves visible",
+    "filename": "1761977428_farmbot_uzk_2_12729.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in pot",
+    "filename": "1761977429_farmbot_uzk_2_12730.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No green leaves visible",
+    "filename": "1761977429_farmbot_uzk_2_12731.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No green leaves visible",
+    "filename": "1761977429_farmbot_uzk_2_12732.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No green leaves visible",
+    "filename": "1761977429_farmbot_uzk_2_12733.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in pot",
+    "filename": "1761977429_farmbot_uzk_2_12734.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No green leaves visible",
+    "filename": "1762020517_farmbot_uzk_2_12735.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No green leaves visible",
+    "filename": "1762020518_farmbot_uzk_2_12736.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No green leaves visible",
+    "filename": "1762020518_farmbot_uzk_2_12737.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No green leaves visible",
+    "filename": "1762020518_farmbot_uzk_2_12738.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No green leaves visible",
+    "filename": "1762020518_farmbot_uzk_2_12739.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No green leaves visible",
+    "filename": "1762020518_farmbot_uzk_2_12740.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No green leaves visible",
+    "filename": "1762020563_farmbot_uzk_2_12741.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No green leaves visible",
+    "filename": "1762020563_farmbot_uzk_2_12742.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "Empty pot with soil only",
+    "filename": "1762020563_farmbot_uzk_2_12743.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "Empty pot with soil only",
+    "filename": "1762020564_farmbot_uzk_2_12744.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No green leaves visible",
+    "filename": "1762020564_farmbot_uzk_2_12745.jpg"
+  },
+  {
+    "label": "GOOD",
+    "reason": "Green leaves visible in soil",
+    "filename": "1762020564_farmbot_uzk_2_12746.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No green leaves visible",
+    "filename": "1762020611_farmbot_uzk_2_12747.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No green leaves visible",
+    "filename": "1762020611_farmbot_uzk_2_12748.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "Empty pot with soil only",
+    "filename": "1762020611_farmbot_uzk_2_12749.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No green leaves visible",
+    "filename": "1762020612_farmbot_uzk_2_12750.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No green leaves visible",
+    "filename": "1762020612_farmbot_uzk_2_12751.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No green leaves visible",
+    "filename": "1762020612_farmbot_uzk_2_12752.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No green leaves visible",
+    "filename": "1762020658_farmbot_uzk_2_12753.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No green leaves visible",
+    "filename": "1762020658_farmbot_uzk_2_12754.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No green leaves visible",
+    "filename": "1762020658_farmbot_uzk_2_12755.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No green leaves visible",
+    "filename": "1762020658_farmbot_uzk_2_12756.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No green leaves visible",
+    "filename": "1762020658_farmbot_uzk_2_12757.jpg"
+  },
+  {
+    "label": "BAD",
+    "reason": "No green leaves visible",
+    "filename": "1762020659_farmbot_uzk_2_12758.jpg"
+  },
+  {
+    "label": "GOOD",
     "reason": "Green leaves visible in pot",
     "filename": "22698671-2c45-4366-9cb9-d60143411e89.jpeg"
   },
