@@ -212,7 +212,7 @@ filename,y_true,y_pred,reason
 1761977334_farmbot_uzk_2_12720.jpg,BAD,BAD,No green leaves visible
 1761977335_farmbot_uzk_2_12721.jpg,BAD,BAD,No green leaves visible
 1761977335_farmbot_uzk_2_12722.jpg,BAD,BAD,No green leaves visible
-1761977382_farmbot_uzk_2_12723.jpg,BAD,BAD,No green leaves visible
+1761977382_farmbot_uzk_2_12723.jpg,GOOD,BAD,No green leaves visible
 1761977383_farmbot_uzk_2_12724.jpg,BAD,BAD,No green leaves visible
 1761977383_farmbot_uzk_2_12725.jpg,BAD,BAD,No green leaves visible
 1761977383_farmbot_uzk_2_12726.jpg,BAD,BAD,No green leaves visible
@@ -225,7 +225,7 @@ filename,y_true,y_pred,reason
 1761977429_farmbot_uzk_2_12733.jpg,BAD,BAD,No green leaves visible
 1761977429_farmbot_uzk_2_12734.jpg,GOOD,GOOD,Green leaves visible in pot
 1762020517_farmbot_uzk_2_12735.jpg,BAD,BAD,No green leaves visible
-1762020518_farmbot_uzk_2_12736.jpg,BAD,BAD,No green leaves visible
+1762020518_farmbot_uzk_2_12736.jpg,GOOD,BAD,No green leaves visible
 1762020518_farmbot_uzk_2_12737.jpg,BAD,BAD,No green leaves visible
 1762020518_farmbot_uzk_2_12738.jpg,BAD,BAD,No green leaves visible
 1762020518_farmbot_uzk_2_12739.jpg,BAD,BAD,No green leaves visible
@@ -268,4 +268,4 @@ f1db6c02-8975-4003-80c2-0d4128209d0c.jpeg,BAD,BAD,Empty pot with soil only
 f2600b44-22c6-4fbc-9fda-05cf916d6f52.jpeg,BAD,BAD,Empty pot with no visible green leaves or plant material
 f5d317c7-f181-4add-81ee-ae19b122dc94.jpeg,GOOD,GOOD,Green leaves visible in pot
 f66088f0-c77f-41b0-9db8-ed1d84016427.jpeg,BAD,BAD,No green leaves visible
-fc2688c3-52aa-49c2-a921-d29f9596b0a3.jpeg,GOOD,GOOD,Green leaves visible in pot
+fc2688c3-52aa-49c2-a921-d29f9596b0a3.jpeg,BAD,GOOD,Green leaves visible in pot
